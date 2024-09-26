@@ -1,0 +1,74 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Vetaiyan",
+      "url": "https://static.tnn.in/thumb/msid-113198202,width-1280,height-720,resizemode-75/113198202.jpg?quality=100",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI"
+    },
+    {
+      "id": "2",
+      "caption": "Devara Part-1",
+      "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/devara--part-1-et00310216-1712750637.jpg",
+      "link": "https://www.youtube.com/embed/SF9GpDM6rAg"
+    },
+    {
+      "id": "3",
+      "caption": "Manka",
+      "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/devara--part-1-et00310216-1712750637.jpg",
+      "link": "https://www.youtube.com/embed/SF9GpDM6rAg"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Vetaiyan",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI",
+      "timeStamp": "09/22/2024, 07:04:25 PM",
+      "id": 1
+    },
+    {
+      "caption": "big dawgs",
+      "link": "https://www.youtube.com/embed/hOHKltAiKXQ",
+      "timeStamp": "09/22/2024, 07:04:31 PM",
+      "id": 2
+    },
+    {
+      "caption": "Manka",
+      "link": "https://www.youtube.com/embed/VDxpN3YacT0",
+      "timeStamp": "09/22/2024, 07:04:33 PM",
+      "id": 3
+    },
+    {
+      "caption": "big dawgs",
+      "link": "https://www.youtube.com/embed/hOHKltAiKXQ",
+      "timeStamp": "09/24/2024, 09:38:05 PM",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Vetaiyan",
+          "url": "https://static.tnn.in/thumb/msid-113198202,width-1280,height-720,resizemode-75/113198202.jpg?quality=100",
+          "link": "https://www.youtube.com/embed/AiD6SOOBKZI"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "song",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Manka",
+          "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/devara--part-1-et00310216-1712750637.jpg",
+          "link": "https://www.youtube.com/embed/SF9GpDM6rAg"
+        }
+      ]
+    }
+  ]
+}
